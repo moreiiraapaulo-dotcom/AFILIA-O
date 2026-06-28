@@ -1,0 +1,6 @@
+{
+  "name": "Samyra Moreira - Bio Links",
+  "description": "Uma página de links de bio elegante e interativa para Samyra Moreira, organizada com duas abas principais: Links Rápidos e Mentoria Individual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
