@@ -18,7 +18,7 @@ export const SOCIAL_LINKS: LinkItem[] = [
     id: 'shopmyfits',
     title: 'Afiliação Como mudei Meu Corpo',
     subtitle: 'Compre meus looks e conjuntos fitness',
-    url: 'https://shopmyfits.co/samyra',
+    url: 'https://dashboard.kiwify.com/join/affiliate/K0fYV6Ts',
     iconName: 'ShoppingBag',
     image: 'https://scontent-gru2-1.xx.fbcdn.net/v/t1.15752-9/729003826_1374473857974655_6827511599003851738_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=fc17b8&_nc_ohc=1BoPCFNtLfMQ7kNvwFl0d15&_nc_oc=AdrD6NvaCwMJjxDcbuTUvjCcUM0tJsHfQq_-b-X7ocGT3eNZXQ9-G7imtF6k-tsf816iYtMiMFwQ9kv1wlj5LvZT&_nc_zt=23&_nc_ht=scontent-gru2-1.xx&_nc_ss=7b6a8&oh=03_Q7cD5gF2DY5pt38R79Gj2-VaHol3Xg5FMehomfw-ILUa74dT3Q&oe=6A68239E',
   },
